@@ -1,0 +1,41 @@
+body {
+    background: #c8f6ff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.kalkulator {
+    width: 460px;
+    background: #0099ff;
+    margin: 100px auto;
+    padding: 10px 20px 50px 20px;
+    border-radius: 50px;
+}
+
+.bil,
+.opt {
+    width: 300px;
+    margin: 5px;
+    border: none;
+    font-size: 12pt;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+.tombol {
+    background: #ffffff;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: rgb(0, 0, 0);
+    font-size: 15pt;
+    border-bottom: 4px solid #000000;
+}
+
+.judul {
+    text-align: center;
+    color: #eee;
+    font-weight: normal;
+}
